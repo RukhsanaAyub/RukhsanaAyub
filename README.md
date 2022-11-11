@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rukhsana Ayub
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php projects
+- 🌱 I’m currently learning Front-End
+- 💞️ I’m looking to collaborate on Front-End projects
 - 📫 How to reach me ...
 
 <!---
